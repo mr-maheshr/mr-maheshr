@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I’m Mahesh
 
-<!--
-**MaheshSri92/MaheshSri92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 
 
-Here are some ideas to get you started:
+## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Currently working as an **IT Support Engineer**
+- 🛠 Passionate about **modern technologies**
+- 📚 Always learning and improving my skills in IT and cloud technologies
+- 🤝 Enjoy collaborating with teams to deliver reliable IT solutions
+
+> ⚠️ Most repositories are for **learning, testing, and personal development**.
+
+## 🌱 Currently Learning
+
+- Advanced Intune configuration
+- Azure fundamentals
+- PowerShell automation for M365
+- Security best practices for endpoints
+
+Feel free to explore my repositories, raise issues, or reach out if you’d like to collaborate or chat about tech!
+
+⭐ *Thanks for visiting my profile!*
