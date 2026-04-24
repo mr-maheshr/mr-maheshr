@@ -1,6 +1,6 @@
 👋 Hi, I’m Mahesh
 
-I’m a cybersecurity professional and PhD researcher specialising in **AI-based intrusion detection and applied machine learning**, with hands-on experience in enterprise IT and cloud security environments.
+PhD researcher specialising in **AI-based intrusion detection and applied machine learning**, with hands-on experience in enterprise IT and cloud security environments.
 
 ---
 
