@@ -19,7 +19,7 @@ My work bridges **academic research and practical security engineering**, with a
 ## 🧠 Research & Projects
 
 - AI-based Intrusion Detection Systems (IDS)
-- Machine learning on security datasets (e.g. NSL-KDD)
+- Machine learning on security datasets
 - Model evaluation, comparison, and performance analysis
 - Feature engineering and handling imbalanced datasets
 
